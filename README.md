@@ -1,2 +1,4 @@
 # Blockz
-A multiplayer game.
+Blockz is still in development.
+
+We may release soon.
