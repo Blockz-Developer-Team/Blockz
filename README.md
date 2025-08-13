@@ -1,7 +1,7 @@
 # Blockz
 Blockz is still in development.
 
-We may release soon (expected to release the game around 2026, and the website in around a month).
+We may release soon (expected to release the game around 2026).
 
 You can watch this repo if you want to know when it releases.
 
